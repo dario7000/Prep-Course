@@ -1,0 +1,10 @@
+for es para crear un bucle en 3 pasos primero darle valor a la variable segundo limitar el bucle 
+porque sino seria infinito y terceo seleccionar el incremental que va a utilizar el bucle que 
+puede ser en negativo.
+
+&& es un operador que se utiliza para poner mas de una opcion pero se respeten toda sino da (false)
+|| es un operador que se utiliza para poner mas de una opcion igual que (&&) pero en este caso conque
+	una sola se cumpla da (true)
+! es un operador para negar el valor para que de (true) ejemplo 
+(0 !== 0) la respuesta es (false) porque el operador pregunta es cierto que 0 no es igual a 0
+(0 !== 2) la respuesta en este caso da (true) porque la pregunta es es cierto que 0 no es igual a 2
